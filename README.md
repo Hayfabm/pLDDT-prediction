@@ -2,13 +2,14 @@
 
 deepchain.bio | Prediction AlphaFold pLDDT score
 
-## Setup pLDDT environment
+## pLDDT conda environment
 
 From the root of this repo, create a virtual environment:
 ```conda create --name pLDDT python=3.7 -y
    conda activate pLDDT
 ```
-you will need to manually install Bio-transformers by running 
+you will need to manually install Bio-transformers by running:
+
 ```pip install bio-transformers```
 
 
