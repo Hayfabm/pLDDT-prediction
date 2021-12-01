@@ -14,6 +14,8 @@ you will need to manually install Bio-transformers by running:
 
 ```pip install bio-transformers```
 
+Follow this [tutorial](https://docs.neptune.ai/integrations-and-supported-tools/model-training/sklearn) to make neptune logger works
+
 
 ## Overview 
 
