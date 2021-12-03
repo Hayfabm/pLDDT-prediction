@@ -28,8 +28,9 @@ Protein structures can provide invaluable information, both for reasoning about 
 | __Embedding__     |            esm1_t6_43M_UR50S                                                      |
 | __Model__         |            RandomForest Regressor                                                 |
 | __Output__        |            Predicted pLDDT score                                                  |
-| __Dataset__       |            __364171__ PDBs                                                            |
+| __Dataset__       |            __364171__ PDBs                                                        |
 | __Accuracy__      |            Root Mean Square Error (_RMSE_), coefficient of determination (_R2_)   |
 
 
-
+## Dataset:
+Datasets are freely available throught AlphaFold web server [FTP](http://ftp.ebi.ac.uk/pub/databases/alphafold/)
