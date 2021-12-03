@@ -32,5 +32,5 @@ Protein structures can provide invaluable information, both for reasoning about 
 | __Accuracy__      |            Root Mean Square Error (_RMSE_), coefficient of determination (_R2_)   |
 
 
-## Dataset:
+## Datasets:
 Datasets are freely available throught AlphaFold web server [FTP](http://ftp.ebi.ac.uk/pub/databases/alphafold/)
